@@ -5,7 +5,12 @@ Welcome to my HR Operations portfolio. This repository reflects my hands-on expe
 ## 🔍 What You'll Find Here
 - 📘 [Internal Regulations](./policies/internal-regulations.md)
 - 🧾 **Templates & Forms** – Onboarding checklist, leave request forms, warning templates.
-- 📄 [HR Operations Specialist](./job-descriptions/hr-operations.md)
+## 📄 Job Descriptions
+
+- 👥 [HR Operations Specialist](./job-descriptions/hr-operations.md)
+- 🚚 [Fleet Supervisor (مسؤول حركة)](./job-descriptions/fleet-supervisor.md)
+- 📞 [Sales Representative (مسؤول مبيعات)](./job-descriptions/sales-representative.md)
+
 - 📊 **HR Workflows** – Practical examples of employee onboarding, offboarding, and documentation flows.
 - ✅ **HR-Tech Practices** – Integration of attendance with payroll, document version control, and process automation concepts.
 - 🚫 [Violations and Penalties Policy](violations-and-penalties.md)
