@@ -1,4 +1,3 @@
-
 # Saad Alturki – HR Operations Portfolio
 
 Welcome to my HR Operations portfolio. This repository reflects my hands-on experience in building and managing HR processes and systems, with a focus on compliance, transparency, and operational efficiency.
@@ -24,9 +23,7 @@ Key achievements include:
 
 📧 isa3di@gmail.com  
 📱 +966506032056  
-🔗 [LinkedIn Profile](
-linkedin.com/in/saad-alturki-753483271
-) 
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/saad-alturki-753483271)
 
 ---
 
