@@ -24,7 +24,9 @@ Key achievements include:
 
 📧 isa3di@gmail.com  
 📱 +966506032056  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/isa3di) 
+🔗 [LinkedIn Profile](
+linkedin.com/in/saad-alturki-753483271
+) 
 
 ---
 
