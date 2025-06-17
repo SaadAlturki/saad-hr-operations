@@ -3,13 +3,11 @@
 Welcome to my HR Operations portfolio. This repository reflects my hands-on experience in building and managing HR processes and systems, with a focus on compliance, transparency, and operational efficiency.
 
 ## 🔍 What You'll Find Here
-
-- 📋 **Internal Policies** – Attendance, payroll, employee conduct, and more, written in compliance with Saudi Labor Law.
+- 📘 [Internal Regulations](./policies/internal-regulations.md)
 - 🧾 **Templates & Forms** – Onboarding checklist, leave request forms, warning templates.
 - 📄 **Job Descriptions** – Clear and structured JDs aligned with organizational needs.
 - 📊 **HR Workflows** – Practical examples of employee onboarding, offboarding, and documentation flows.
 - ✅ **HR-Tech Practices** – Integration of attendance with payroll, document version control, and process automation concepts.
-- 📘 [Internal Regulations](./policies/internal-regulations.md)
 - 🚫 [Violations and Penalties Policy](violations-and-penalties.md)
 
 ## 💼 About Me
