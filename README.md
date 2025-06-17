@@ -30,4 +30,7 @@ Key achievements include:
 
 ---
 
-This repo serves as a showcase of my approach to modern HR: practical, compliant, and employee-centered.
+---
+
+> 🛠️ **Note:** This repository is still a work in progress and serves as an initial attempt to document my real-life HR Operations work.  
+> I’m relatively new to GitHub, but excited to keep learning and building a more complete HR toolkit here.
