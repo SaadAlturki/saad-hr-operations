@@ -1,5 +1,5 @@
 policies/internal-regulations.md
-
+و
 
 
 
