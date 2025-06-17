@@ -1,4 +1,4 @@
-# Internal Regulations – Abdullah Al-Turki Transport Company
+policies/internal-regulations.md
 
 
 
