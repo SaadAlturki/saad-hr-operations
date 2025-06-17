@@ -4,7 +4,6 @@ Welcome to my HR Operations portfolio. This repository reflects my hands-on expe
 
 ## 🔍 What You'll Find Here
 - 📘 [Internal Regulations](./policies/internal-regulations.md)
-- 🧾 **Templates & Forms** – Onboarding checklist, leave request forms, warning templates.
 ## 📄 Job Descriptions
 
 - 👥 [HR Operations Specialist](./job-descriptions/hr-operations.md)
