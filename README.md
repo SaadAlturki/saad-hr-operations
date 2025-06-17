@@ -13,6 +13,7 @@ Welcome to my HR Operations portfolio. This repository reflects my hands-on expe
 
 - 📊 **HR Workflows** – Practical examples of employee onboarding, offboarding, and documentation flows.
 - ✅ **HR-Tech Practices** – Integration of attendance with payroll, document version control, and process automation concepts.
+  ##Policy
 - 🚫 [Violations and Penalties Policy](violations-and-penalties.md)
 
 ## 💼 About Me
